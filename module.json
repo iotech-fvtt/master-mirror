@@ -8,9 +8,9 @@
     "styles": ["mastermirror.css"],
     "esmodules": [],
     "packs": [],
-    "url": "",
-    "manifest": "",
-    "download": "",
+    "url": "https://github.com/iotech-fvtt/master-mirror",
+    "manifest": "https://raw.githubusercontent.com/iotech-fvtt/master-mirror/master/module.json",
+    "download": "https://github.com/iotech-fvtt/master-mirror/releases/download/0.1.1/scifi-ui.zip",
     "minimumCoreVersion": "0.6.5",
     "compatibleCoreVersion": "0.6.5"
 }
