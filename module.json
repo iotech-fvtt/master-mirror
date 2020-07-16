@@ -1,0 +1,16 @@
+{
+    "name": "master-mirror",
+    "title": "Master Mirror",
+    "description": "Puts your sidebar on the left, scene controls on right. ",
+    "version": "0.1.1",
+    "author": "iotech",
+    "scripts": ["mastermirror.js"],
+    "styles": ["mastermirror.css"],
+    "esmodules": [],
+    "packs": [],
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "minimumCoreVersion": "0.6.5",
+    "compatibleCoreVersion": "0.6.5"
+}

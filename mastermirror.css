@@ -1,0 +1,31 @@
+#sidebar {
+    right: unset !important;
+    left: 5px;
+}
+
+#controls {
+    left: unset !important;
+    right: 70px;
+}
+
+#logo {
+    left: unset !important;
+    right: 10px;
+}
+
+#navigation {
+    left: 330px;
+}
+
+#loading {
+    left: 330px;
+}
+
+#players {
+    left: unset !important;
+    right: 15px;
+}
+
+#hotbar {
+    left: 310px
+}
